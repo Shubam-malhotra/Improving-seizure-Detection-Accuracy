@@ -4,11 +4,11 @@
 
 Epilepsy is a neurological disorder marked by recurrent seizures caused by abnormal electrical activity in the brain. Seizures can range from brief periods of confusion or unconsciousness to convulsions. Causes may include genetics, brain injury, or unknown factors. Treatment typically involves medications, but in some cases, surgery or lifestyle changes are necessary. While epilepsy cannot be cured, it can often be managed effectively.
 
-##**Seizure** 
+## **Seizure** 
 
 A seizure is a sudden, uncontrolled burst of electrical activity in the brain that can cause changes in behavior, movements, feelings, or consciousness. It can last from a few seconds to a few minutes. Seizures vary in intensity; some might involve staring spells or muscle twitches, while others can lead to convulsions or loss of awareness. Seizures can happen to anyone but are more common in people with epilepsy.
 
-##**Epilepsy Seizure Detection**
+## **Epilepsy Seizure Detection**
 
 Epilepsy seizure detection using EEG signals and machine learning involves analyzing brain wave data to identify abnormal patterns that signal a seizure. EEG captures electrical activity in the brain, and during a seizure, this activity shows distinct irregularities. Machine learning algorithms are trained to recognize these patterns from EEG data, enabling automatic and real-time detection of seizures. By applying ML models, it becomes possible to detect seizures more quickly and accurately without the need for constant human monitoring, improving patient care and seizure management for individuals with epilepsy.
 
