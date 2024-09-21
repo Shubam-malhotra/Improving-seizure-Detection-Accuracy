@@ -29,3 +29,5 @@ To process the data, each set of 4097 data points was divided and shuffled into 
 - **Class 1**: Recordings of seizure activity.
 
 Importantly, only class 1 represents subjects experiencing epileptic seizures, while classes 2, 3, 4, and 5 represent non-seizure conditions. While the dataset has five classes, most researchers focus on binary classification: distinguishing seizure activity (class 1) from non-seizure conditions (classes 2-5). This version of the dataset was created as a .csv file for easier access and processing.
+
+## **Output**
