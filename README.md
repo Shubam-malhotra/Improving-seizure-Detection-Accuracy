@@ -1,6 +1,6 @@
 **Improving Seizure Detection Using EEG Signals**
 
-_Epilepsy
+Epilepsy
     Epilepsy is a neurological disorder marked by recurrent seizures caused by abnormal electrical activity in the brain. Seizures can range from brief periods of confusion or unconsciousness to convulsions. Causes may include genetics, brain injury, or unknown factors. Treatment typically involves medications, but in some cases, surgery or lifestyle changes are necessary. While epilepsy cannot be cured, it can often be managed effectively.
 
 ##Seizure 
