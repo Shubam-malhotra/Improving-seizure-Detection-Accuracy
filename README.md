@@ -20,14 +20,12 @@ The original EEG dataset consists of recordings from 500 individuals, with each 
 
 To process the data, each set of 4097 data points was divided and shuffled into 23 chunks, each chunk representing 1 second of brain activity with 178 data points. This results in a total of 11,500 rows, where each row consists of 178 features (EEG data points) and a label in column 179 representing the class. The label, y, can take one of five values:
 
-5: EEG recorded with eyes open.
+## Class Labels
 
-4: EEG recorded with eyes closed.
-
-3: EEG recorded from a healthy brain region.
-
-2: EEG recorded from the tumor-affected region.
-
-1: Recording of seizure activity.
+- **Class 5**: EEG recordings with the eyes open.
+- **Class 4**: Recordings with the eyes closed.
+- **Class 3**: Recordings from a healthy brain region.
+- **Class 2**: EEG activity from the tumor-affected area.
+- **Class 1**: Recordings of seizure activity.
 
 Importantly, only class 1 represents subjects experiencing epileptic seizures, while classes 2, 3, 4, and 5 represent non-seizure conditions. While the dataset has five classes, most researchers focus on binary classification: distinguishing seizure activity (class 1) from non-seizure conditions (classes 2-5). This version of the dataset was created as a .csv file for easier access and processing.
