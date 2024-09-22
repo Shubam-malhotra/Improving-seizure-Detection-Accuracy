@@ -14,7 +14,8 @@ Epilepsy seizure detection using EEG signals and machine learning involves analy
 
 ## **Dataset**
 
-### Data set link : https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
+### Data set link : https://1drv.ms/u/s!AkvjJDx_XrCLhKFN8H4ipfYKIJRLqw?e=fYoPj6
+
 
 The original EEG dataset consists of recordings from 500 individuals, with each person’s brain activity captured for 23.6 seconds. This time-series data is sampled into 4097 data points per recording, with each data point representing the EEG value at a specific time. The dataset is organized into 5 folders, each containing 100 files, representing different conditions.
 
